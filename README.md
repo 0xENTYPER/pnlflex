@@ -12,7 +12,11 @@ One connected workspace for onchain research and crypto content creation.
 
 </div>
 
-![PNLFlex wallet PnL experience](assets/home.png)
+![PNLFlex product walkthrough](assets/product-tour.gif)
+
+| Product | My contribution | Status | Core stack |
+| --- | --- | --- | --- |
+| Wallet intelligence and creator studio | Product design, UX, market-data architecture, PnL methodology, chart tooling, and delivery | Live product | TypeScript, React, Cloudflare, multi-provider onchain APIs |
 
 ## The product
 
