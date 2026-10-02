@@ -300,7 +300,7 @@ Production code, private integrations, operational configuration, credentials, a
 
 ## Author
 
-Built by [@entyper](https://x.com/entyper).
+Built by [0xENTYPER](https://github.com/0xENTYPER).
 
 ---
 
